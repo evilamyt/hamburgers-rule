@@ -10,5 +10,6 @@ namespace hamburgers_rule
         public void Main(string[] args)
         {
         }
+        //test
     }
 }
